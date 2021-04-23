@@ -1,7 +1,7 @@
 # PhysIKA_Web_SPlisHSPlash
 
 + 该工程为PhysIKA_Web中流体模拟方法所用的流体仿真框架
-+ git clone之后，在工程目录下输入
++ git clone之后，cmd进入到工程目录下并输入
 ```shell script
 python setup.py build_ext
 ```
